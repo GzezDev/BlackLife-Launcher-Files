@@ -1,11 +1,10 @@
 
-
 {
   "version": "1.0.0",
   "files": [
     {
       "path": "game-files.zip",
-      "url": "https://YOUR-DOMAIN.com/blacklife/game-files.zip",
+      "url": "https://raw.githubusercontent.com/GzezDev/BlackLife-Launcher-Files/main/files/game-files.zip",
       "sha256": "PUT_REAL_SHA256_HERE",
       "extract": true
     }

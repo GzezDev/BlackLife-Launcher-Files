@@ -1,0 +1,21 @@
+
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "game-files.zip",
+      "url": "https://YOUR-DOWNLOAD-URL/game-files.zip",
+      "sha256": "REPLACE_WITH_REAL_SHA256"
+    },
+    {
+      "path": "samp-files.zip",
+      "url": "https://YOUR-DOWNLOAD-URL/samp-files.zip",
+      "sha256": "REPLACE_WITH_REAL_SHA256"
+    },
+    {
+      "path": "voicechat.zip",
+      "url": "https://YOUR-DOWNLOAD-URL/voicechat.zip",
+      "sha256": "REPLACE_WITH_REAL_SHA256"
+    }
+  ]
+}
